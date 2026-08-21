@@ -70,62 +70,6 @@ Projetos desenvolvidos utilizando **Java e Spring Boot**, trabalhando com uma es
 
 [🔗 Ver repositórios](https://github.com/GoulartHenrique01?tab=repositories)
 
----
-
-## 📚 Estudos & Projetos Acadêmicos
-
-Repositórios desenvolvidos durante minha formação em **Análise e Desenvolvimento de Sistemas**, além de projetos criados para praticar novas tecnologias.
-
-### ☕ Java
-
-Projetos e exercícios relacionados a:
-
-* Programação Orientada a Objetos
-* Classes e entidades
-* Métodos
-* Collections
-* APIs
-* Testes
-
-### 🌱 Spring Boot
-
-Projetos envolvendo:
-
-* APIs REST
-* Controllers
-* Services
-* DTOs
-* Entidades
-* Relacionamentos
-* PostgreSQL
-* Postman
-
-### 🗄️ Banco de Dados
-
-Estudos envolvendo:
-
-* SQL
-* PostgreSQL
-* MySQL
-* Modelagem de dados
-* Normalização
-* Relacionamentos
-
-### ⚛️ React
-
-Projetos e estudos envolvendo:
-
-* Componentes
-* Hooks
-* `useState`
-* `useEffect`
-* Context API
-* Integração com APIs
-* Vite
-
-[📂 Ver todos os repositórios](https://github.com/GoulartHenrique01?tab=repositories)
-
----
 
 ## 🛠️ Tecnologias
 
@@ -181,31 +125,6 @@ Arquitetura de software
 Cloud
 DevOps
 ```
-
-Meu objetivo não é apenas aprender novas tecnologias, mas entender **quando utilizá-las, quais problemas elas resolvem e quais são seus custos e limitações**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoulartHenrique01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoulartHenrique01&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GoulartHenrique01&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 
 ---
 
