@@ -24,13 +24,19 @@ Atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot, React e
 
 Gosto de aprender colocando a mão no código: criar projetos, encontrar problemas, entender o motivo deles e buscar soluções melhores.
 
+Atualmente estou:
 ```text
 📚 Estudando        → Java • Spring Boot • React • Python
 💻 Desenvolvendo    → APIs REST • Aplicações Web • Banco de Dados
 🚀 Evoluindo        → Arquitetura • Testes • Cloud • DevOps
 ```
-
 ---
+
+<div align="center">
+
+<img src="416061b9d95e206d7bbeb51e644cca6e.gif" width="80%">
+
+</div>
 
 ## 🚀 Projetos em desenvolvimento
 
