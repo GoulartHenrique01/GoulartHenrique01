@@ -4,14 +4,6 @@
 
 ### Full Stack Developer em formação
 
-<p>
-  <a href="https://github.com/GoulartHenrique01">
-    <img src="https://img.shields.io/badge/GitHub-GoulartHenrique01-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-<img src="./assets/coding.gif" width="400">
-
 </div>
 
 ---
