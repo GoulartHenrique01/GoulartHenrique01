@@ -206,15 +206,6 @@ Meu objetivo não é apenas aprender novas tecnologias, mas entender **quando ut
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GoulartHenrique01/GoulartHenrique01/output/github-contribution-grid-snake.svg"/>
-
-</div>
 
 ---
 
